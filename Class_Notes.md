@@ -40,6 +40,7 @@ For Detailed behind the scenes of compilation of C program check out this articl
 
                     <---------------Lecture 3 --------------->
 
+C is case sensitive Programming Language 
 Every statment in C language ends with a semicolon ( ; ). Keep a track of semicolons to avoid error in programs.
 A token is the smallest element of a program that is meaningful to the compiler. Tokens can be classified as follows:  
 
@@ -120,4 +121,5 @@ Depending on the number of operands that an operator can act upon, operators can
     Ternary Operator: The operator that require three operands to act upon are called ternary operator. Conditional Operator(?) is also called ternary operator. 
     Syntax: (Expression1)? expression2: expression3;
 
-
+                
+                                                    <---------------Lecture 3 --------------->
