@@ -123,3 +123,25 @@ Depending on the number of operands that an operator can act upon, operators can
 
                 
                                                     <---------------Lecture 3 --------------->
+Datatypes and Variables in  C language.
+Variables in C are associated with data type. Each data type requires an amount of memory and performs specific operations. int − Used to store an integer value.
+What is Variables in C language?
+A name given to a memory location. 
+Declared by writing {       datatype variable_name = value ;        }
+                Example : int a = 43 ; // Here the variable is not only declared but also Initialised. 
+                Example : int a ,b ,c ,d ; // Here variable is declared only  , not initialised.
+
+#   Rules for declaring  Variable in C language:
+    # Can contain alphabet , digits  , underscores.
+    # A variable's name can start with an alphabet and underscore only.
+    # Can't start with a digit.
+    # No whitespaces & Reserved keywords is allowed.
+    Valid Variable names: int harshit ; float harhit188 ; char iamharshit_188 ;
+    Invalid Variable names : int 188Harshit ; char long : // These can't be used to name a variabke in C language.
+
+# Datatypes in C language.
+Basic DataTypes 
+int , char , float , double ;
+Derived DataTypes : array , pointer , structure , union .
+Enumeration DataTypes : emum 
+Void DataType : void // void means null in ck= language.
